@@ -1,0 +1,4 @@
+ESP32 Mac-Adress
+
+Sender: (COM9) a0:dd:6c:04:c6:04
+Receiver: (COM11) 0c:b8:15:a6:b1:4c
